@@ -25,6 +25,13 @@ LandingPage-Batman/
 │── README.md
 ```
 
+## 🌐 Deploy
+
+O projeto está disponível online através do GitHub Pages:
+
+👉 https://cristianomattoss.github.io/LandingPage-Batman/
+
+
 ## 🎯 Objetivo
 
-O objetivo deste projeto é fortalecer conhecimentos em front-end, responsividade, manipulação do DOM e versionamento com Git.
+O objetivo deste projeto é fortalecer conhecimentos em front-end, responsividade e versionamento com Git.
